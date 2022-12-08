@@ -53,6 +53,21 @@ values
  - Designation: __Developer__
  - Github Profile : (https://github.com/masthanskk)
  - [Github Profile](https://github.com/masthanskk)
+
+
+
+ ### My data in Json Format
+
+``` json
+{
+    "Name"          : "Shami",
+    "City"          : "Ongole",
+    "Designation"   : "Developer",
+    "Github Profile": "https://github.com/masthanskk",
+    "GitHub Profile": "https://github.com/masthanskk)",
+    "Married"       : Yes
+}
+ ```
  
 
  
