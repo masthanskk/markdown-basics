@@ -70,4 +70,16 @@ values
  ```
  
 
- 
+ ### My data in Json format
+
+``` json
+{
+    "Name":"Shami",
+    "City" :"Hyderabad",
+    "Designation" : "Developer",
+  "GitHub":"https://github.com/masthanskk",
+  "Married": No,
+  "Brothers": 3,
+  "Sisters": 2
+}
+``` 
